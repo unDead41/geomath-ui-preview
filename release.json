@@ -2,7 +2,7 @@
   "title": "GeoMath animated 3D entry preview",
   "source_repository": "unDead41/geodecoder",
   "source_branch": "digitalized-ux-ui-upgrade",
-  "source_commit": "c869ecfdd65fba459db7a042dd4ba7953a76ed3f",
+  "source_commit": "f32e7a96c7a79b087f7fe4d54e672f6a06f4c347",
   "preview": true,
   "routes": [
     "#utama",
@@ -10,6 +10,5 @@
     "#sambung",
     "#cara-bermain"
   ],
-  "renderer": "Three.js 0.180.0, locally bundled",
-  "previous_preview_commit": "627f28765c9261fb93dc95a499599dbbf725d11c"
+  "renderer": "Shared Three.js WebGL + Canvas2D 3D fallback, locally bundled"
 }
