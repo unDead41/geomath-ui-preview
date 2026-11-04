@@ -1,69 +1,15 @@
 {
-  "preview": true,
+  "title": "GeoMath animated 3D entry preview",
   "source_repository": "unDead41/geodecoder",
   "source_branch": "digitalized-ux-ui-upgrade",
-  "ui_source_commit": "0c968c65005a0413c4f4a0034670b4db825599c8",
-  "integration_branches_changed": false,
-  "files": [
-    {
-      "path": "style.css",
-      "bytes": 64884,
-      "sha256": "b17d2042c9470d2326524db0adefd23526a7d49f458be0727b84b98fc263aa42"
-    },
-    {
-      "path": "portal.css",
-      "bytes": 58053,
-      "sha256": "b7254184f37f593e394b8be175e40695f50316cc57b810deb723e697944743fd"
-    },
-    {
-      "path": "design-tokens.css",
-      "bytes": 5577,
-      "sha256": "db9dbd721776728d14a03a5a9057f1c62ad30dbf37c477884f057198b2a5d145"
-    },
-    {
-      "path": "app.bundle.js",
-      "bytes": 1188539,
-      "sha256": "486f0f247c7aa4ed66f604f4ea8cf95c3969c4be4d600eec818fe21daf0cae81"
-    },
-    {
-      "path": "module-foundation.css",
-      "bytes": 1373,
-      "sha256": "087093fb4d74af106cc6f901f3bac20ea921153eb556d202f720e1906a6d551f"
-    },
-    {
-      "path": "entry.css",
-      "bytes": 25754,
-      "sha256": "20a0e2089576f5d7c419d1502f9c4c3fa249888765db66f1d2c2eb26811789d8"
-    },
-    {
-      "path": "foundation.css",
-      "bytes": 15424,
-      "sha256": "be2c5fd9ba363498d31008261d0d6cd81f9de55735483fee5d6d812f529ea8f0"
-    },
-    {
-      "path": "usability.css",
-      "bytes": 7340,
-      "sha256": "6d492bee03f874a062799cb5f74d2d48ce0969c2478f333dfdd3edae7940c3e8"
-    },
-    {
-      "path": "assets/audio/map.mp3",
-      "bytes": 2006517,
-      "sha256": "a86d0abe511f1ef5291c95b27b8aee42338d9dc5970af03d79fdef8e157aacb4"
-    },
-    {
-      "path": "assets/audio/menu.mp3",
-      "bytes": 2161058,
-      "sha256": "9843f7da5eb33dcde18e83401debf2d82e1355a07cea0df5e4a696b1e123b0b4"
-    },
-    {
-      "path": "help-support.css",
-      "bytes": 8829,
-      "sha256": "589dcb74ba38efe35181aaf0733da26b668a403f1370886ccd60ed511c2b262f"
-    },
-    {
-      "path": "index.html",
-      "bytes": 32656,
-      "sha256": "d3cd33ea69fee8ce000687d754718c13b34dac3460d11fcd9f4da1f813ccb29d"
-    }
-  ]
+  "source_commit": "c869ecfdd65fba459db7a042dd4ba7953a76ed3f",
+  "preview": true,
+  "routes": [
+    "#utama",
+    "#main",
+    "#sambung",
+    "#cara-bermain"
+  ],
+  "renderer": "Three.js 0.180.0, locally bundled",
+  "previous_preview_commit": "627f28765c9261fb93dc95a499599dbbf725d11c"
 }
